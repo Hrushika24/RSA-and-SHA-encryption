@@ -1,29 +1,29 @@
-# RSA-and-SHA-encryption
+# Applied_Cryptography_2024<br/>
 
-##Date: 
-2024 Spring
+##Date<br/>
+2024 Spring<br/>
 
-##Project Name:
+##Project Name<br/>
 Campus file encryption information management system based on RSA
 
-##Project technology: 
-frontend: Vue JavaScript
-backend: spring boot MySQL
+##Project technology <br/>
+frontend: Vue JavaScript<br/>
+backend: spring boot mysql<br/>
 
-##Team information: 
-Team Name: Bug Killer
-Team Member:
-Hui Jin, 
-Sri Harsha Allam, 
-Vamsi Krishna Meka, 
-Hrushika Papani
+##Team information<br/>
+Team Name: Bug Killer<br/>
+Team Member:<br/>
+Hui Jin</br>
+Sri Harsha Allam</br>
+Vamsi Krishna Meka</br>
+Hrushika Papani</br>
 
-##Project setup:
-npm install
-run the controller/src/main/java/com/rsa/project/MyApplication.java file first
-run the code below:
-npm run server
+##Project setup<br/>
+npm install<br/>
+run the controller/src/main/java/com/rsa/project/MyApplication.java file first<br/>
+run the code below:<br/>
+npm run server<br/>
 
-##admin account
-account: admin
+##admin account<br/>
+account: admin <br/>
 password: qwertyuiop

@@ -8,7 +8,7 @@ Campus file encryption information management system based on RSA
 
 ##Project technology
 frontend: Vue JavaScript
-backend: spring boot mysql
+backend: spring boot MySQL
 
 ##Team information
 Team Name: Bug Killer
